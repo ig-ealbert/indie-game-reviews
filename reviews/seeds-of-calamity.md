@@ -31,7 +31,7 @@ Fishing is greatly simplified and has quality of life improvements. You don't ne
 ## Areas for Improvement
 
 - Artifact hunting is not fun. You search for an entire month and keep getting the same artifact you've already found instead of the one common one you haven't.
-- It would be nice to be able to get the achievements from an early access save file, but that's not possible. Some achievements (Full Circle, Pickled to Perfection, Refined Taste, Dungeon Champion) are bugged and don't trigger.
+- It would be nice to be able to get the achievements from an early access save file, but that's not possible. Some achievements (Pickled to Perfection, Refined Taste, Dungeon Champion) are bugged and don't trigger.
 
 ## Target Audience
 
