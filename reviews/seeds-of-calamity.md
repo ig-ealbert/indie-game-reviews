@@ -25,13 +25,13 @@ Fishing is greatly simplified and has quality of life improvements. You don't ne
 ## Favorite Parts
 
 - No need to constantly look things up on a wiki! (That really frustrated me about Stardew Valley.)
-- The character stories are really cute. One of the last ones is legitimately hillarious.
+- The character stories are really cute. One of the last quests is legitimately hillarious.
 - Much much much simpler than Stardew Valley.
 
 ## Areas for Improvement
 
 - Artifact hunting is not fun. You search for an entire month and keep getting the same artifact you've already found instead of the one common one you haven't.
-- It would be nice to be able to get the achievements from an early access save file, but that's not possible. Some achievements (Pickled to Perfection, Refined Taste, Dungeon Champion) are bugged and don't trigger.
+- It would be nice to be able to get the achievements from an early access save file, but that's not possible. One achievement (Dungeon Champion) is bugged and won't trigger at all. Two others (Pickled to Perfection, Refined Taste) won't trigger upon completion but have a workaround to get them to trigger.
 - There's no weather guarantee. I went through an entire winter without a windy day. Having to play another full year in game just to get a chance at a windy winter day is not a great experience.
 
 ## Target Audience
