@@ -30,7 +30,7 @@ Fishing is greatly simplified and has quality of life improvements. You don't ne
 
 ## Areas for Improvement
 
-- Artifact hunting is not fun. You search for an entire month and keep getting the same artifact you've already found instead of the one common one you haven't.
+- Artifact hunting is not fun. You search for an entire month and keep getting the same artifact you've already found instead of the one common one you haven't. Then you have to play through another full year just to get a chance to find the seasonal artifact again. And you probably won't find it then either.
 - There's no weather guarantee. I went through an entire winter without a windy day. Having to play another full year in game just to get a chance at a windy winter day is not a great experience.
 
 ## Target Audience
