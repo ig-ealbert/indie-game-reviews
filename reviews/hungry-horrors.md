@@ -46,7 +46,7 @@ The game is in early access and isn't finished yet, so who knows what awaits you
 
 Casual gamers will enjoy this, as it gets easier the more you play it and unlock things. The fights are not unbeatable, though you may have to use some consumable items.
 
-Hardcore gamers will find this a bit too light and fluffy. They may still enjoy the lore!
+Hardcore gamers will find vanilla mode a bit too light and fluffy. There is now a "spicy" mode which is much harder than the vanilla game, which might satisfy their desired level of challenge. They may still enjoy the lore too!
 
 ## Summary
 
