@@ -32,6 +32,32 @@ You can also read about the lore.
 
 The game is in early access and isn't finished yet, so who knows what awaits you?
 
+## Banquet Mode
+
+In addition to Story Mode, which is described above, there is also Banquet Mode, which is more of a roguelike style of play. There are a bunch of options in setting up a run in Banquet Mode.
+
+### Princess
+
+You can choose between multiple princess types. The basic one has no rules modifiers. Others tweak the rules or change the gameplay style. Beat a Banquet Mode run with one princess type to unlock the next one!
+
+### Deckbuilder or Culinary
+
+You can choose which style of gameplay you would like.
+
+- Deckbuilder - What you would expect from this game. Your focus is on building a great deck! When you feed monsters or serve the dish to yourself to heal, the dishes go to the discard pile, and are shuffled back into your deck when it runs out.
+- Culinary - When you feed a monster or yourself, the dish disappears from your deck PERMANENTLY. To counterbalance this, the monsters drop ingredients of increasing amounts as you proceed in your run, and you have the option to cook after each encounter (both combat and non-combat).
+
+### Difficulty
+
+You default to Raw difficulty, which has no rules modifiers. As you beat each difficulty, another one unlocks, adding in a new challenge (it doesn't get any easier).
+
+- Raw
+- Rare
+- Medium Rare
+- Medium
+- Medium Well
+- Well Done
+
 ## Favorite Parts
 
 - The lore is wonderful. You can read all about the monsters and events.
