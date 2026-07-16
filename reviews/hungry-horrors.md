@@ -34,7 +34,13 @@ The game is in early access and isn't finished yet, so who knows what awaits you
 
 ## Banquet Mode
 
-In addition to Story Mode, which is described above, there is also Banquet Mode, which is more of a roguelike style of play. There are a bunch of options in setting up a run in Banquet Mode.
+In addition to Story Mode, which is described above, there is also Banquet Mode, which is more of a roguelike style of play.
+
+![Mode Selection](./images/hungry-horrors/campaign-banquet.PNG)
+
+There are a bunch of options in setting up a run in Banquet Mode.
+
+![Banquet Mode](./images/hungry-horrors/banquet-mode-selection.PNG)
 
 ### Princess
 
