@@ -73,8 +73,7 @@ You default to Raw difficulty, which has no rules modifiers. As you beat each di
 ## Areas for Improvement
 
 - It's early access, so all of the content isn't available yet. I'm sure time will resolve this!
-- In the Deckbuilder Banquet mode, Stinky Princess modifier creates unintended horror move loops. The horror will gain exponential hunger and you can never feed it enough.
-- In the Culinary Banquet mode, you quickly run out of ingredients, and then dishes, and auto-lose in the first zone. It's not fun. It needs some balance changes.
+- In the Deckbuilder Banquet mode, Stinky Princess modifier creates unintended horror move loops. There was a balance patch to prevent exponential hunger gains, but it likely still needs adjusting.
 
 ## Target Audience
 
