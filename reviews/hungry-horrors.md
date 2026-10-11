@@ -30,8 +30,6 @@ You can also read about the lore.
 
 ![Lore](./images/hungry-horrors/lore.jpg)
 
-The game is in early access and isn't finished yet, so who knows what awaits you?
-
 ## Banquet Mode
 
 In addition to Story Mode, which is described above, there is also Banquet Mode, which is more of a roguelike style of play.
