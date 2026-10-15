@@ -114,6 +114,8 @@ In all Banquet mode runs, you get only 3 biomes, and you don't choose them. One 
 
 ![Three Stages](./images/hungry-horrors/three-stages.jpg)
 
+You will be able to see the horrors' food preferences (love, like, dislike, hate), so no need to worry about discovering their tastes. That doesn't mean it will be easy though! `^_^`
+
 ### Strategy
 
 In Culinary mode, the horrors will drop increasing amounts of ingredients, and you get a chance to cook after each battle. This is extremely important to do, as your deck is destroyed as you eat dishes or feed horrors. You have to constantly replenish your deck, hopefully with better dishes as you go. The rarer ingredients will drop in later biomes and battles. Prioritize encounters that reward you with ingredients or recipes, as they are the most important rewards for Culinary mode. It seems like a good idea to take dishes, but remember, they are removed as soon as you use them, so they're not a great choice of reward. Neither are seasonings, as the seasoned dish will have only one use.
