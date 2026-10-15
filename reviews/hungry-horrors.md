@@ -74,9 +74,11 @@ You default to Raw difficulty, which has no rules modifiers. As you beat each di
 
 ## Target Audience
 
-Casual gamers will enjoy this, as it gets easier the more you play it and unlock things. The fights are not unbeatable, though you may have to use some consumable items.
+Casual gamers will enjoy story mode, as it gets easier the more you play it and unlock and collect items and buffs. The fights are not unbeatable, though you may have to use some consumable items.
 
-Hardcore gamers will find vanilla mode a bit too light and fluffy. There is now a "spicy" mode which is much harder than the vanilla game, which might satisfy their desired level of challenge. They may still enjoy the lore too!
+Hardcore gamers will find vanilla story mode a bit too light and fluffy (enjoying my food puns?). There is now a "spicy" mode which is harder than the vanilla game, which might satisfy their desired level of challenge. For a more traditional roguelike experience, there is Banquet mode with multiple difficulty and princess modifiers. Culinary mode is particularly difficult for those who want it.
+
+Everyone will enjoy the lore and characters!
 
 ## Summary
 
