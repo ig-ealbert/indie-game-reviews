@@ -26,6 +26,8 @@ You'll find yourself on the map. This is similar in style to Slay the Spire, but
 
 During a kappo or omakase, you will need to use the ingredients from your pantry to create sushi. You can check your pantry by clicking on the refrigerator.
 
+Ingredients can have up to one quality and modifier each. I won't list them here to avoid spoilers, pun intended. As you play, you'll discover these and how they affect your flavour and hype, but be aware that you will start with some stale ingredients on your first tutorial run. They only score half flavour, so be careful!
+
 ![Pantry](./images/sushiamo/pantry.jpg)
 
 Select some cards in your hand and choose one of the two basic options - **make** or **scrap**. You can select up to 5 cards at a time by default, although there are tools, notebooks, and modifiers to change this. Make uses the ingredients in sushi and scores them against the score target. Some ingredients might go well with others, so plan ahead! Scrap discards them and draws new ingredients from your pantry. If the pantry is empty, it will be restocked (reshuffles the deck). To score, you multiply the flavour from your played ingredients by the hype, as shown at the top center of the screen. You only have a limited number of make and scrap each day, so you have to hit the target score before you run out of make.
@@ -36,7 +38,7 @@ Remember that omakase give you an extra reward at the cost of a difficult client
 
 ![Elite Reward](./images/sushiamo/elite-reward.jpg)
 
-If you hit the target score, you will see a receipt with a summary of your scoring and payout. By default, you get $5 (they use yen but honestly that's just for flavor, pun intended. It makes no sense money-wise). If you have any cards or tools or sauces that give you extra money, that is added as the bonus. If you score high enough to re-hit the target score, up to 5 times, you get a tip for each time. All of this is added up and you get paid.
+If you hit the target score, you will see a receipt with a summary of your scoring and payout. By default, you get $5 (they use yen but honestly that's just for flavour, pun intended. It makes no sense money-wise). If you have any cards or tools or sauces that give you extra money, that is added as the bonus. If you score high enough to re-hit the target score, up to 5 times, you get a tip for each time. All of this is added up and you get paid.
 
 ![Round Scoring](./images/sushiamo/round-scoring.jpg)
 
