@@ -28,7 +28,7 @@ During a kappo or omakase, you will need to use the ingredients from your pantry
 
 ![Pantry](./images/sushiamo/pantry.jpg)
 
-Select some cards in your hand and choose one of the two basic options - **make** or **scrap**. Make uses the ingredients in sushi and scores them against the score target. Some ingredients might go well with others, so plan ahead! Scrap discards them and draws new ingredients from your pantry. If the pantry is empty, it will be restocked (reshuffles the deck). To score, you multiply the flavour from your played ingredients by the hype, as shown at the top center of the screen. You only have a limited number of make and scrap each day, so you have to hit the target score before you run out of make.
+Select some cards in your hand and choose one of the two basic options - **make** or **scrap**. You can select up to 5 cards at a time by default, although there are tools, notebooks, and modifiers to change this. Make uses the ingredients in sushi and scores them against the score target. Some ingredients might go well with others, so plan ahead! Scrap discards them and draws new ingredients from your pantry. If the pantry is empty, it will be restocked (reshuffles the deck). To score, you multiply the flavour from your played ingredients by the hype, as shown at the top center of the screen. You only have a limited number of make and scrap each day, so you have to hit the target score before you run out of make.
 
 ![Make or Scrap](./images/sushiamo/make-scrap.jpg)
 
